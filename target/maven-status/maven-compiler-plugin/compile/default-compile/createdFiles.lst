@@ -1,0 +1,7 @@
+FacturacionElectronicaService.class
+clases\ValidadorFacturas.class
+org\web\sunatfactura\resources\JakartaEE10Resource.class
+org\web\sunatfactura\JakartaRestConfiguration.class
+clases\Factura.class
+co\com\example\servlets\Factura.class
+clases\FirmaDigitalService.class
